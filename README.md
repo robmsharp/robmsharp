@@ -1,4 +1,4 @@
-![image](https://github.com/robmsharp/robmsharp/assets/39394881/8e266e99-8eaa-430a-9ea2-592cd77e1920)# Robert Sharp
+# Robert Sharp
 # Junior Fullstack developer
 
 ### Languages and Tools
@@ -22,7 +22,7 @@
 
    I later reworked the architecture for Scanflow so that it would be easier for users to implement new modules, calling this new prototype FrankenScan.
 
-   <img align="left" alt="Screenshot" width="200px" src="[https://user-images.githubusercontent.com/39394881/219536186-18a01ead-22a1-479d-8ee2-8e9a64b2db62.png](https://github.com/robmsharp/frankenscan/raw/master/readmeImages/frankenScanScreenshot.png)" />
+   <img align="left" alt="Screenshot" width="200px" src="https://github.com/robmsharp/frankenscan/raw/master/readmeImages/frankenScanScreenshot.png" />
 
    Github:  https://github.com/robmsharp/frankenscan
 
